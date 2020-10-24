@@ -1,0 +1,27 @@
+table {
+  font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 60%;
+}
+
+td, th {
+border: 1px solid black;
+text-align: center;
+}
+
+tr:nth-child(odd) {
+background-color: #dddddd;
+border: 1px solid black;
+}
+.td1{
+padding: 4px 45px;
+}
+.td2{
+padding: 0 8px;
+}
+.td3{
+padding: 0 25px;
+}
+.td4{
+padding: 3px 8px;
+}
